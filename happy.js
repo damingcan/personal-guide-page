@@ -140,5 +140,5 @@ function le() {
     };
 }
 var bgmSrc = "http://lab.mkblog.cn/high/Eifersucht.mp3";//http://lanyesmusic.duapp.com/deguozhanche.mp3
-var cssHref = "http://lab.mkblog.cn/high/kuanghai.css";     //设置页面动效css地址
+var cssHref = "https://dmc.iarc.top/kuanghai.css";     //设置页面动效css地址
 
